@@ -1,0 +1,4 @@
+Die Installation wurde eerfolgreich abgeschlossen.
+Das Programm können Sie jetzt über das Startmenü starten.
+
+Es befindet sich dann auch ein Icon in der Info-Leiste.
